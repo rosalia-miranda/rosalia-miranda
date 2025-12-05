@@ -15,7 +15,7 @@ Atuei principalmente em empresas de tecnologia, trabalhando lado a lado com PMs,
 - 🎯 **Business Insights**: construção de métricas, KPIs, storytelling com dados.  
 - 📈 **Dashboards & DataViz**: Looker Studio, Tableau, Power BI, Metabase.  
 - 🧠 **Modelagem Estatística**: classificação, regressão, modelos probabilísticos, análise de variáveis, validação cruzada, métricas de performance e interpretação de modelos.  
-- 🧹 **Data Cleaning & SQL**: manipulação, pipelines simples.
+- 🧹 **Data Cleaning & SQL**: manipulação, pipelines.
 
 ---
 
