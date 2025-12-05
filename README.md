@@ -47,3 +47,6 @@ Atuei principalmente em empresas de tecnologia, trabalhando lado a lado com PMs,
 ---
 
 ✨ *Busco oportunidades em Business Analytics, Data Analytics e Ciência de Dados*  
+
+|![Snake animation](https://github.com/rosalia-miranda/rosalia-miranda/blob/output/github-contribution-grid-snake.svg)
+
